@@ -1,2 +1,2 @@
-String PatrickCarlos = "Patrick Carlos;" 
-String RWaters=RWaters;
+String PatrickCarlos = "Patrick Carlos"; 
+String RileyWaters = "Riley Waters";
